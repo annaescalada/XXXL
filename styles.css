@@ -379,3 +379,20 @@ body {
   padding: 1.5em 1em;
 }
 /*# sourceMappingURL=styles.css.map */
+main{
+  margin: auto;
+  max-width:1140px;
+}
+.main-elements-container{
+display:flex;
+flex-direction: row;
+flex-wrap:wrap;
+}
+
+.element{
+  margin-left: 10px;
+  width:23%;
+}
+.element img{
+  width:100%;
+}
